@@ -85,7 +85,6 @@ API-ANTICHEAT SECURITY:
 - Auto Update's
 - Standalone
 - Supports All Frameworks
-- Adding watermark while checking server on fivem server list.
 ```
 
 **WHAT COMES WITH ANTICHEAT?**
