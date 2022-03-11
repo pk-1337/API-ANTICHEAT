@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=bdcOC5ld2R4
 ### Find us
 -
 - https://apiac.xyz
-- https://discord.gg/pEW7vER
+- https://discord.gg/stz4nCkhZp
 -
 
 ```From FiveM Server owner for FiveM server owners. We're listening every suggestion and we're trying to add into API.```<br>
