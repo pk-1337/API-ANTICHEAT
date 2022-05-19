@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=bdcOC5ld2R4
 - https://discord.gg/stz4nCkhZp
 -
 
-```From FiveM Server owner for FiveM server owners. We're listening every suggestion and we're trying to add into API.```<br>
+```From FiveM Server owner for FiveM server owners. We're listening every suggestion and we're trying to add into API!```<br>
 API-ANTICHEAT SECURITY:
 ```
 - Detect most of lua menu's
