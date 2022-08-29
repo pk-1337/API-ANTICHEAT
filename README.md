@@ -3,10 +3,10 @@ API-ANTICHEAT was created in 27 May 2020 and developed by PK, it is an anti-chea
 https://www.youtube.com/watch?v=bdcOC5ld2R4
 ### Find uss
 You can purchase and automatically receive API through our website: https://apiac.xyz/
--
+
 - https://apiac.xyz
 - https://discord.gg/stz4nCkhZp
--
+
 
 ```From FiveM Server owner for FiveM server owners. We're listening every suggestion and we're trying to add into API!```<br>
 *list is not updated...*
