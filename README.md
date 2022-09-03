@@ -9,7 +9,7 @@ You can purchase and automatically receive API through our website: https://apia
 
 
 ```From FiveM Server owner for FiveM server owners. We're listening every suggestion and we're trying to add into API!```<br>
-*list is not updated...*
+*list is not updated...
 API-ANTICHEAT SECURITY:
 ```
 - Detect most of lua menu's
