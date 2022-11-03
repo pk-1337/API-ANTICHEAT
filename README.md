@@ -2,10 +2,10 @@
 API-ANTICHEAT was created in 27 May 2020 and developed by PK, it is an anti-cheat resource for FiveM coded in lua 5.3. It can detect 95% of client-side cheats.  Our protections are configurable and provide the best protection in the FiveM scene. Anticheat is getting frequent updates since start. API-AC will be your last choice.
 https://www.youtube.com/watch?v=bdcOC5ld2R4
 ### Find uss
-You can purchase and automatically receive API through our website: https://apiac.xyz/
+You can purchase and automatically receive API through our website: https://api-anticheat.com
 
-- https://apiac.xyz
-- https://discord.gg/stz4nCkhZp
+- https://api-anticheat.com
+- https://discord.gg/apiac
 
 
 ```From FiveM Server owner for FiveM server owners. We're listening every suggestion and we're trying to add into API!```<br>
