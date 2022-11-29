@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=bdcOC5ld2R4
 You can purchase and automatically receive API through our website: https://api-anticheat.com
 
 - https://api-anticheat.com
-- https://discord.gg/apiac
+- https://dc.api-anticheat.com
 
 
 ```From FiveM Server owner for FiveM server owners. We're listening every suggestion and we're trying to add into API!```<br>
