@@ -9,16 +9,25 @@ You can purchase and automatically receive API through our website: https://api-
 
 
 ```From FiveM Server owner for FiveM server owners. We're listening every suggestion and we're trying to add into API!```<br>
-*list is not updated...
+Updated list: 06.07.2023
 API-ANTICHEAT SECURITY:
 ```
 - Detect most of lua menu's
+- Anti Eulen
+- Anti Eulen Godmode
+- Anti Eulen Car spawn
+- Anti Eulen Noclip
+- Anti Eulen Safe Weapon Spawn
+- Anti Eulen Freecam
 - Anti Spectate
 - Anti Armor
 - Anti Blacklisted Key Log with screen
+- Anti Car Spawn
 - Anti Nui Devtools
 - Anti Noclip
+- Anti Clip modifier
 - Anti Godmode
+- Anti Semi-Godmode
 - Anti SuperJump
 - Anti Teleport
 - Anti New Commands
@@ -42,6 +51,7 @@ API-ANTICHEAT SECURITY:
 - Anti Explosion Ammo
 - Anti Weird Resources (DETECTING EULEN)
 - Anti Resource Injection
+- Anti Vehicle Repair/godmode
 - Anti Vehicle Max Out
 - Anti Vehicle Plate change
 - Anti Vehicle Color change
@@ -78,7 +88,7 @@ API-ANTICHEAT SECURITY:
 - Required discord & steam system
 - Blacklisted names system
 - Screenshot system
-- Menu Detection On Screen
+- Menu Detection On Screen system
 
 - Low ms usage
 - Advanced ban system in JSON
