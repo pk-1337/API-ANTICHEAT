@@ -10,7 +10,7 @@ You can purchase and automatically receive API through our website: https://api-
 
 
 ```From FiveM Server owner for FiveM server owners. We're listening every suggestion and we're trying to add into API!```<br>
-Updated list: 20.01.2024
+Updated list: 21.01.2024
 API-ANTICHEAT SECURITY:
 ```
 - Detect most of lua menu's
@@ -78,6 +78,7 @@ API-ANTICHEAT SECURITY:
 - Anti Anticheat Client Side stop
 - Anti Blacklisted Triggers
 - Anti Triggers with weird strings
+- Anti No Head
 
 - Event Rate Limits
 - Resource Counter System
